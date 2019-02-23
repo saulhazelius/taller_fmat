@@ -1,6 +1,6 @@
-final scripts an zipped files 
+final scripts and zipped files 
  
-#requirements
+requirements:
 matplotlib
 
 
